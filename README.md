@@ -1,7 +1,8 @@
-Flappy Bird Game in Unity
-Welcome to the Flappy Bird game developed in Unity! This README file will provide you with all the necessary information to understand, set up, and play the game.
+## Flappy Bird Game in Unity
+Welcome to the Flappy Bird game developed in Unity! 
+This README file will provide you with all the necessary information to understand, set up, and play the game.
 
-Overview
+## Overview
 Flappy Bird is a popular and addictive 2D side-scrolling game where the player controls a bird, attempting to fly between columns of green pipes without hitting them. The objective is to achieve the highest possible score by navigating through the obstacles.
 
 Features
